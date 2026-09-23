@@ -25,8 +25,7 @@ Genius Navaneet is a Python-based voice assistant that listens to voice commands
 
 ### 1. Clone the repository
 
-    git clone YOUR_GITHUB_REPOSITORY_LINK
-    cd genius-navaneet
+    git clone https://github.com/Navaneet-Upadhyay/genius-navaneet.git
 
 ### 2. Install required packages
 
